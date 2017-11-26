@@ -1,1 +1,1 @@
-# wordpress-theme
+# Wordpress Theme Blog Theme
